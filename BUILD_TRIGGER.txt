@@ -1,0 +1,1 @@
+This marker commit triggers the existing macOS Debug/Release build workflow for the local RX 7800 XT experiment. It does not modify driver code.
